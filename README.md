@@ -1,2 +1,7 @@
-# memcache
-Management and working with memcache.
+# cache for php
+Management and working with cache.
+
+Building from master
+--------------------
+
+Clone the repository:
