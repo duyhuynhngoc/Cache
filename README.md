@@ -11,6 +11,7 @@ Usage
     $port     = 11211           //default "11211"
 
     CacheManager::getCacher($app, $server, $port);
+```
 
 Building from master
 --------------------
