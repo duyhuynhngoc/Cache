@@ -5,6 +5,7 @@ Usage
 -----
 1. Memcache
 
+```
     $app      = 'App'           //Application name, default "App"
     $server   = 'localhost'     //default "localhost"
     $port     = 11211           //default "11211"
